@@ -1,6 +1,5 @@
 Bootstrap:docker  
 From:jeffersonlab/remoll:latest 
-Registry:hub.docker.com
 
 %files
 
