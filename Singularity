@@ -9,7 +9,7 @@ MAINTAINER Erik Stevenson
 %environment
 
 %runscript
-exec /bin/bash /entrypoint.sh "$@"
+exec /entrypoint.sh "$@"
 
 %post
 
