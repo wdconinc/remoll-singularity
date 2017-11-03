@@ -3,8 +3,7 @@
 ## Building this image
 
 ```
-singularity create remoll.img
-sudo singularity bootstrap remoll.img Singularity
+sudo singularity build remoll.img Singularity
 ```
 
 ## Running Remoll and getting the output
